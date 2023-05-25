@@ -1,1 +1,1 @@
-# static_project
+# reponsive_project
