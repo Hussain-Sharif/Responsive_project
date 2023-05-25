@@ -1,0 +1,89 @@
+*{
+    font-family: serif;
+}
+body{
+    overflow: auto;
+}
+.logo{
+    max-height: 120px;
+    max-width: 155px;
+}
+.service_section{
+    background-color: white;
+    height: 100vh;
+}
+.bio-text{
+    text-align: left;
+    margin-right: auto;
+}
+.s_head{
+    color: #183b56;
+    font-weight: bolder;
+}
+.s_para{
+    color: #616c7c;
+}
+.s_list{
+    text-align: center;
+}
+.s_list_h{
+    color: #1f2933;
+}
+.s_list_p{
+    color: #7b8794;
+}
+.s_list_img{
+    max-height:60px;
+    max-width: 70px;
+}
+.p_head{
+    color: #183b56;
+    font-weight: bolder;
+}
+.p_1{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    border-width: 0px;
+    border-radius: 8px;
+    padding: 12px;
+    height: 60vh;
+}
+.p_1_h{
+    color: white;
+    font-size: 38px;
+    font-weight: bold;
+}
+.p_1_p{
+    color: white;
+    font-size: 18px;
+}
+.p_1_btn{
+    color: #ff9f00;
+    background-color: white;
+    border-radius: 32px;
+    border-width: 0px;
+    font-size: 16px;
+    width: 142px;
+    height: 45px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.p_1_m-title{
+    color: #323f4b;
+    font-size: 25px;
+    font-weight: 600;
+}
+.p_1_m-p{
+    color: black;
+    font-size: 20px;
+}
+span {
+    color: #323f4b;
+    font-weight: bolder;
+}
+.p_1_m_btn{
+    border-width: 1px;
+    border-color: #323f4b;
+    font-size: 20px;
+    width: 115px;
+}
